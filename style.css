@@ -29,18 +29,19 @@ html {
 }
 
 .section-two {
-    width: 300px;
-    height: auto;
-    display: flex;
-    flex-direction: column;
-    padding: 0px 10%
+    background: #fff;
+    border-radius: 25px;
+    padding: 25px;
+    max-width: 450px;
+    margin-bottom: 10px;
+    text-align: center;
 }
     
-}
+
 
 .form-one input
  {
-    min-width: 50px;
+    min-width: 50%;
     height: 100%;
     background-color: rgb(244, 244, 244);
     color: rgb(51, 51, 51);
